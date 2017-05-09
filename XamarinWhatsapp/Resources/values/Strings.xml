@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Mensaje">Mensaje</string>
+    <string name="ApplicationName">XamarinWhatsapp</string>
+    <string name="Enviar">Enviar mensaje</string>
+</resources>
